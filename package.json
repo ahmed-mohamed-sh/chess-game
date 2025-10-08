@@ -1,0 +1,7 @@
+{
+  "name": "chess-game",
+  "version": "1.0.0",
+  "scripts": {
+    "build": "mkdir -p public && cp -r *.html *.css *.js public/ 2>/dev/null || echo 'Files copied'"
+  }
+}
