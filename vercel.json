@@ -11,6 +11,5 @@
       "src": "/(.*)",
       "dest": "/public/$1"
     }
-  ],
-  "include": ["*.html", "*.css", "*.js", "imgs/**/*"]
+  ]
 }
